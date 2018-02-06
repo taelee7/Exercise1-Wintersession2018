@@ -1,0 +1,65 @@
+h1{
+   text-align:center;
+   font-family: Arial;
+}
+
+.text1{
+   text-align: center;
+   font-size: 30px;
+   font-family: Arial;
+}
+
+.text2{
+   text-align: center;
+   font-size: 20px;
+   font-family: Arial;
+}
+
+details{
+   text-indent: 50px;
+   width: 95%;
+   font-family: Gotham;
+   margin: 10px;
+   font-size: 20px;
+}
+
+h2{
+   margin-left: 175px;
+   font-family: Arial;
+}
+
+h4{
+   text-align:center;
+   font-family: Arial;
+   font-style: italic;
+}
+
+h5{
+   text-indent: 50px;
+   width: 90%;
+   font-family: Arial;
+   font-weight: normal;
+}
+
+p{
+   text-indent: 50px;
+   width: 80%;
+   margin-left: 175px;
+   font-family: Arial;
+}
+
+ol{
+   margin-left: 150px;
+   font-family: Arial;
+}
+
+li{
+   font-size: 20px;
+   font-family: Arial;
+
+}
+
+footer{
+   text-align: center;
+   font-family: Arial;
+}
